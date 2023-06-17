@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jani Syed</h1>
 <h3 align="center">A Digital Aficionado and Aesthetic Advocate, passionately dedicated to personal growth and the relentless pursuit of diverse explorations.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6">
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janisyed18&label=Profile%20views&color=0e75b6&style=flat" alt="janisyed18" /> </p>
 
@@ -13,11 +13,16 @@
 
 - 👨‍💻 All of my projects are available at [....](....)
 
+- 📝 I regularly write articles on [https://dev.to/janisyed18](https://dev.to/janisyed18)
+
 - 💬 Ask me about **Java , Springboot, Databases**
 
 - 📫 How to reach me **janisyed181297@gmail.com**
 
 - 📄 Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1l7pcgiFvRv6fQm6H7I4Yd31DRwqLihjl)
+
+- ⚡ Fun fact **I'm a coding virtuoso by day and a music maven by night, effortlessly strumming strings of code and melodies in perfect harmony.**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
