@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [....](....)
 
+- 🗒️ All my notes arew available at [Notion](https://www.notion.so/JavaScript-48da5496477147cda5dec1b0e8a9ff84)
+
 - 📝 I regularly write articles on [https://dev.to/janisyed18](https://dev.to/janisyed18)
 
 - 💬 Ask me about **Java , Springboot, Databases**
