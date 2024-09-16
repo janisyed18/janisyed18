@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **sydjani303@gmail.com**
 
-- 📄 Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1dDRUYN7db-T9m-5dqaMSxrRiO-2DcNgU)
+- 📄 Checkout my [Resume]([https://drive.google.com/drive/u/0/folders/1dDRUYN7db-T9m-5dqaMSxrRiO-2DcNgU](https://drive.google.com/file/d/1Kvu88FN7l_GclxP8HyauLFQscpQspBzf/view?usp=sharing))
 
 - ⚡ Fun fact **I'm a coding virtuoso by day and a music maven by night, effortlessly strumming strings of code and melodies in perfect harmony.**
 
