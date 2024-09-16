@@ -17,9 +17,9 @@
 
 - 📝 I regularly write articles on [https://dev.to/janisyed18](https://dev.to/janisyed18)
 
-- 💬 Ask me about **Java , Springboot, Databases**
+- 💬 Ask me about **Java , Springboot, Spring Framework, kafka, Docker, Kubernetes, Databases**
 
-- 📫 How to reach me **janisyed181297@gmail.com**
+- 📫 How to reach me **sydjani303@gmail.com**
 
 - 📄 Checkout my [Resume](https://drive.google.com/drive/u/0/folders/1l7pcgiFvRv6fQm6H7I4Yd31DRwqLihjl)
 
